@@ -74,6 +74,27 @@ p,a{
     object-fit: cover;
 }
 
+ul{
+    list-style-type: none;
+}
+
 .skill-80{
     width: 80%;
+}
+
+.skill-60{
+    width: 60%;
+}
+.skill-50{
+    width: 50%;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+.cta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 1rem;
 }
